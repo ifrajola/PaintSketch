@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0
+};
+
+#screen {
+    
+    width: 700px;
+    height: 500px;
+    border: 1 px solid;
+
+};
+
